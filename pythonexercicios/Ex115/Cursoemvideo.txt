@@ -1,0 +1,7 @@
+jose:32
+ana:12
+Anna:25
+ana:6
+danilo:25
+jose:35
+mariana:23
